@@ -12,7 +12,7 @@ For this project, the goal is to ask and answer three questions about the availa
 ### Files used
 ('new_york_city.csv')
 ('washington.csv')
-('chicago.csv')
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
