@@ -15,5 +15,5 @@ For this project, the goal is to ask and answer three questions about the availa
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+It's important to give proper credit.
 
