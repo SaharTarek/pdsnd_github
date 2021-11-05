@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 SaharTarek-R-project
 
 ### Description
-Describe what your project is about and what it does
+For this project, the goal is to ask and answer three questions about the available bikeshare data from Washington, Chicago, and New York.
 
 ### Files used
 ('new_york_city.csv')
